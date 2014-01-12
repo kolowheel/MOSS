@@ -1,0 +1,17 @@
+
+    <Simulation DurationOfSimulation="1000">
+
+        <sProcess IOBurstTime="50" CPUBurstTime="200" CpuTotalWorkTime="600"  id="1" />
+
+        <sProcess IOBurstTime="50" CPUBurstTime="80"  CpuTotalWorkTime="400"  id="2" />
+
+        <sProcess IOBurstTime="50" CPUBurstTime="10"  CpuTotalWorkTime="400"  id="3" />
+
+        <sProcess IOBurstTime="50" CPUBurstTime="10"  CpuTotalWorkTime="400"  id="4" />
+
+    </Simulation>
+
+
+
+
+
