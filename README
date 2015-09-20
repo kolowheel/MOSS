@@ -6,8 +6,7 @@ It is using such subjects like io-burst(amount of time when process is waiting f
 
 Process configuration could be configured using xml files.
 Example:
-```
-    <Simulation DurationOfSimulation="1000">
+```<Simulation DurationOfSimulation="1000">
 
         <sProcess IOBurstTime="50" CPUBurstTime="200" CpuTotalWorkTime="600"  id="1" />
 
